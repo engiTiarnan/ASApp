@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ASApp</string>
+    <string name="visit_us_at">Visit us at</string>
+    <string name="todo">TODO</string>
+    <string name="alfascript_com">AlfaScript.com</string>
+    <string name="_2020_alfascript">© 2020 AlfaScript</string>
+    <string name="ret">Return</string>
+    <string name="next">Next</string>
+    <string name="tick">Tick</string>
+    <string name="numberthreedarkblue">numberthreedarkblue</string>
+    <string name="Reminder">Please make sure to bring your paper prescription with you to the pharmacy</string>
+    <string name="alfalogo">AlfaLogo</string>
+    <string name="pharmacy_3">Pharmacy 3</string>
+    <string name="pharmacy_2">Pharmacy 2</string>
+    <string name="pharmacy_1">Pharmacy 1</string>
+    <string name="Select_pharmacy_sentence">Please select your pharmacy</string>
+    <string name="capture_image">Capture Image</string>
+</resources>
+
